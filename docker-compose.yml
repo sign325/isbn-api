@@ -3,7 +3,7 @@ services:
     build: .
     restart: unless-stopped
     ports:
-      - "3000:3000"
+      - "2137:2137"
     environment:
       - AUTH_USER=isbn
       - AUTH_PASS=changeme

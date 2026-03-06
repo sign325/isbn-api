@@ -19,6 +19,6 @@ RUN npx patchright install chromium
 COPY tsconfig.json ./
 COPY src/ src/
 
-EXPOSE 3000
+EXPOSE 2137
 
 CMD ["npx", "tsx", "src/index.ts"]

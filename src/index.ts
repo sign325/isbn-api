@@ -278,7 +278,7 @@ async function handleCatalog(c: any, catalogUrl: string) {
 	}
 }
 
-const port = parseInt(process.env.PORT || '3000');
+const port = parseInt(process.env.PORT || '2137');
 
 // Verify proxy is alive, then start the server
 await verifyProxy();
