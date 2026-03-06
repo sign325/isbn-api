@@ -1,0 +1,50 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5184866",
+  "url": "https://lubimyczytac.pl/ksiazka/5184866/jack-faust-opowiadania-najlepsze-2",
+  "title": "Jack Faust. Opowiadania Najlepsze 2",
+  "authors": [
+    {
+      "id": "31970",
+      "name": "Michael Swanwick",
+      "url": "https://lubimyczytac.pl/autor/31970/michael-swanwick"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "5382",
+    "name": "Mag"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": null,
+  "publishingSeries": {
+    "id": "3488",
+    "name": "Artefakty"
+  },
+  "rating": 0,
+  "ratingsCount": 0,
+  "reviewsCount": 0,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-12-31",
+  "firstLocalPublishDate": "2027-12-31",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": null,
+  "originalTitle": "Jack Faust. Opowiadania Najlepsze 2",
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu. Dodaj opis +"
+    }
+  ]
+}

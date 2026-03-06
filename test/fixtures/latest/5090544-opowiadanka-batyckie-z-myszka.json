@@ -1,0 +1,54 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5090544",
+  "url": "https://lubimyczytac.pl/ksiazka/5090544/opowiadanka-batyckie-z-myszka",
+  "title": "OPOWIADANKA BATYCKIE z myszką",
+  "authors": [
+    {
+      "id": "93806",
+      "name": "Jerzy Kuliński",
+      "url": "https://lubimyczytac.pl/autor/93806/jerzy-kulinski"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/5090000/5090544/1106543-352x500.jpg",
+  "isbn": "9782490988068",
+  "publisher": {
+    "id": "24906",
+    "name": "Agde : Polski Ośrodek Wydawniczy"
+  },
+  "categories": [
+    {
+      "id": "40",
+      "slug": "literatura-faktu/biografia-autobiografia-pamietnik",
+      "name": "biografia, autobiografia, pamiętnik"
+    }
+  ],
+  "series": {
+    "id": "43752",
+    "name": "Miniatury Żeglarskie",
+    "volume": 10
+  },
+  "publishingSeries": {
+    "id": "19511",
+    "name": "Miniatury Żeglarskie"
+  },
+  "rating": 10,
+  "ratingsCount": 1,
+  "reviewsCount": 0,
+  "pages": 48,
+  "format": "papier",
+  "publishDate": "2029-02-01",
+  "firstLocalPublishDate": "2029-02-01",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": "48 min.",
+  "originalTitle": "OPOWIADANKA BATYCKIE z myszką",
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Opowiadania, wspomnienia Autora z jego Bałtyckich Rejsów"
+    }
+  ]
+}

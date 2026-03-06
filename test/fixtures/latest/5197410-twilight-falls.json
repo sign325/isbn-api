@@ -1,0 +1,51 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5197410",
+  "url": "https://lubimyczytac.pl/ksiazka/5197410/twilight-falls",
+  "title": "Twilight Falls",
+  "authors": [
+    {
+      "id": "259007",
+      "name": "Juneau Black",
+      "url": "https://lubimyczytac.pl/autor/259007/juneau-black"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/5197000/5197410/1284769-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "9616",
+    "name": "Vintage"
+  },
+  "categories": [
+    {
+      "id": "53",
+      "slug": "beletrystyka/kryminal-sensacja-thriller",
+      "name": "kryminał, sensacja, thriller"
+    }
+  ],
+  "series": {
+    "id": "53296",
+    "name": "Shady Hollow",
+    "volume": 4
+  },
+  "publishingSeries": null,
+  "rating": 6.5,
+  "ratingsCount": 2,
+  "reviewsCount": 0,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-11-03",
+  "firstLocalPublishDate": null,
+  "firstPublishDate": "2027-11-03",
+  "language": "angielski",
+  "readingTime": null,
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "It's spring in Shady Hollow, and romance is in the air. Even reporter Vera Vixen is caught up in the season as her relationship with new police chief Orville Braun blossoms. But true love is not always smooth sailing, as two of the hollow's young residents come to find. Jonah Atwater and Stasia von Beaverpelt find themselves battling their families in order to be together. And when Jonah's father, Shelby, goes over the top of Twilight Falls, all signs point to Stasia being the murderer.The evidence against Stasia appears overwhelming, and Orville arrests her. It looks like the case is closed, but Vera isn't so sure. There are almost too many clues indicating Stasia is the killer, leading her to suspect someone is setting Stasia up. Besides, what about the mysterious ghostly creature skulking around town at night? Maybe he or she was involved? As Vera investigates further, her sleuthing puts her in direct opposition to Orville, and soon she's stirred up a hornet's nest of trouble."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5226302",
+  "url": "https://lubimyczytac.pl/ksiazka/5226302/wings-of-death",
+  "title": "Wings of Death",
+  "authors": [
+    {
+      "id": "288385",
+      "name": "Madeleine Eliot",
+      "url": "https://lubimyczytac.pl/autor/288385/madeleine-eliot"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "17435",
+    "name": "Independently Published"
+  },
+  "categories": [
+    {
+      "id": "112",
+      "slug": "beletrystyka/romantasy",
+      "name": "romantasy"
+    }
+  ],
+  "series": {
+    "id": "52974",
+    "name": "Chaosborn",
+    "volume": 3
+  },
+  "publishingSeries": null,
+  "rating": 0,
+  "ratingsCount": 0,
+  "reviewsCount": 0,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-07-01",
+  "firstLocalPublishDate": null,
+  "firstPublishDate": "2027-07-01",
+  "language": "angielski",
+  "readingTime": null,
+  "originalTitle": "Wings of Death",
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu. Dodaj opis +"
+    }
+  ]
+}

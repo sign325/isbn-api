@@ -1,0 +1,54 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5223599",
+  "url": "https://lubimyczytac.pl/ksiazka/5223599/starozytna",
+  "title": "Starożytna",
+  "authors": [
+    {
+      "id": "297110",
+      "name": "Arkadiusz Skrim",
+      "url": "https://lubimyczytac.pl/autor/297110/arkadiusz-skrim"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/5223000/5223599/1332601-352x500.jpg",
+  "isbn": "9798242279025",
+  "publisher": {
+    "id": "17435",
+    "name": "Independently Published"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": {
+    "id": "56395",
+    "name": "Starożytna",
+    "volume": 1
+  },
+  "publishingSeries": {
+    "id": "56396",
+    "name": "Starożytna"
+  },
+  "rating": 6,
+  "ratingsCount": 1,
+  "reviewsCount": 0,
+  "pages": 128,
+  "format": "papier",
+  "publishDate": "2028-01-02",
+  "firstLocalPublishDate": "2028-01-02",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": "2 godz. 8 min.",
+  "originalTitle": "Starożytna",
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ziemia jest zagrozona inwazją obcych istot, którzy wymazują wiele cywilzacji w trakcie swojej drogi przez kosmos na przestrzeni tysiecy lat. Ale zanim na Ziemie spadły pierwsze okręty agresywnej rasy, ona już była przebudzona.Istota wyglądająca jak zwykła dziewczyna, lecz znacznie starsza od cywilizacji i pamiętająca eony. Maszyny reagują na nią jak na macierzystą wolę. Gdy obca inwazja paraliżuje Ziemię, sieci sztucznej inteligencji zaczynają szeptać jej imię. Ona jeszcze nie wie, że jej wola może zmienić losy wydarzeń"
+    }
+  ]
+}

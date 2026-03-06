@@ -1,0 +1,96 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "4945842",
+  "url": "https://lubimyczytac.pl/ksiazka/4945842/foxglove-summer",
+  "title": "Foxglove Summer",
+  "authors": [
+    {
+      "id": "76947",
+      "name": "Ben Aaronovitch",
+      "url": "https://lubimyczytac.pl/autor/76947/ben-aaronovitch"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "10822",
+    "name": "Zysk i S-ka"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": {
+    "id": "3498",
+    "name": "Rzeki Londynu",
+    "volume": 5
+  },
+  "publishingSeries": null,
+  "rating": 7,
+  "ratingsCount": 30,
+  "reviewsCount": 1,
+  "pages": 374,
+  "format": "papier",
+  "publishDate": "2028-12-31",
+  "firstLocalPublishDate": "2028-12-31",
+  "firstPublishDate": "2014-11-13",
+  "language": "polski",
+  "readingTime": "6 godz. 14 min.",
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [
+    {
+      "id": "240499",
+      "url": "https://lubimyczytac.pl/ksiazka/4945842/foxglove-summer",
+      "title": "Foxglove Summer",
+      "authors": [
+        {
+          "id": "76947",
+          "name": "Ben Aaronovitch",
+          "url": "https://lubimyczytac.pl/autor/76947/ben-aaronovitch"
+        }
+      ],
+      "description": "W piątej części cyklu Peter Grant opuszcza Londyn i wyrusza na prowincję wspomóc lokalną policję w śledztwie, które rozpoczyna zaginięcie dwóch jedenastoletnich dziewczynek.",
+      "coverUrl": "https://s.lubimyczytac.pl/upload/books/240000/240499/336808-352x500.jpg",
+      "isbn": "9780575132504",
+      "publisher": {
+        "id": "6734",
+        "name": "Orion Publishing Group"
+      },
+      "categories": [
+        {
+          "id": "41",
+          "slug": "beletrystyka/fantasy-science-fiction",
+          "name": "fantasy, science fiction"
+        }
+      ],
+      "series": {
+        "id": "3498",
+        "name": "Rzeki Londynu",
+        "volume": 5
+      },
+      "publishingSeries": null,
+      "rating": 7.07,
+      "ratingsCount": 28,
+      "reviewsCount": 1,
+      "pages": 384,
+      "format": "papier",
+      "publishDate": "2014-11-13",
+      "firstLocalPublishDate": null,
+      "firstPublishDate": "2014-11-13",
+      "language": "angielski",
+      "readingTime": "6 godz. 24 min.",
+      "originalTitle": null,
+      "translators": []
+    }
+  ],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu."
+    }
+  ]
+}

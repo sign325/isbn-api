@@ -1,0 +1,22 @@
+services:
+  api:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - AUTH_USER=isbn
+      - AUTH_PASS=changeme
+      - PROXY_URL=http://mc45vqoQcVA2GaJ1:gHCmTpxUYC52TcOZ_country-pl@geo.iproyal.com:12321
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    volumes:
+      - redis-data:/data
+
+volumes:
+  redis-data:

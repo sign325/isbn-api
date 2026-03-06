@@ -1,0 +1,42 @@
+{
+	"source": "lubimyczytac.pl",
+	"id": "5114878",
+	"url": "https://lubimyczytac.pl/ksiazka/5114878/korowod",
+	"title": "Korowód",
+	"authors": [
+		{
+			"id": "30658",
+			"name": "Jakub Małecki",
+			"url": "https://lubimyczytac.pl/autor/30658/jakub-malecki"
+		}
+	],
+	"description": "\"Kim jest ten trzeci, który zawsze idzie obok ciebie?\"Mężczyzna z dzieckiem w ramionach uciekający przez zamarznięty Bałtyk. Zakochany Feliks i jego listy pisane na statku podczas sztormu. Barbara Brzozowska, autorka poczytnych międzywojennych powieści oraz genialny matematyk Tomasz Wilczewski. Wreszcie pisarz Jakub M. Co ich łączy?W \"Korowodzie\" oglądamy rozciągnięty na stulecia taniec, w którym kolejni bohaterowie prowadzą się za ręce, a ich losy splata coś, co w milczeniu podąża śladem każdego z nich…Nowa powieść Jakuba Małeckiego opowiada o granicach prawdy i fikcji, o strachu i wielkich, często szalonych marzeniach. To odważna, zaskakująca historia, która pędzi, wiodąc czytelnika przez wieki.",
+	"coverUrl": "https://s.lubimyczytac.pl/upload/books/5114000/5114878/1259134-352x500.jpg",
+	"isbn": "9788383302188",
+	"publisher": {
+		"id": "8256",
+		"name": "Sine Qua Non"
+	},
+	"categories": [
+		{
+			"id": "39",
+			"slug": "beletrystyka/literatura-piekna",
+			"name": "literatura piękna"
+		}
+	],
+	"series": null,
+	"publishingSeries": null,
+	"rating": 7.43,
+	"ratingsCount": 3610,
+	"reviewsCount": 542,
+	"pages": 256,
+	"format": "papier",
+	"publishDate": "2024-05-15",
+	"firstLocalPublishDate": "2024-05-15",
+	"firstPublishDate": null,
+	"language": "polski",
+	"readingTime": "4 godz. 16 min.",
+	"originalTitle": null,
+	"translators": [],
+	"otherEditions": []
+}

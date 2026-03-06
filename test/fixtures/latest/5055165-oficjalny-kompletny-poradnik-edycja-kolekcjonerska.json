@@ -1,0 +1,47 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5055165",
+  "url": "https://lubimyczytac.pl/ksiazka/5055165/oficjalny-kompletny-poradnik-edycja-kolekcjonerska",
+  "title": "Oficjalny kompletny poradnik edycja kolekcjonerska",
+  "authors": [
+    {
+      "id": "243431",
+      "name": "Loui Beatty",
+      "url": "https://lubimyczytac.pl/autor/243431/loui-beatty"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "38472",
+    "name": "Piggyback Interactive Limited"
+  },
+  "categories": [
+    {
+      "id": "69",
+      "slug": "pozostale/poradniki",
+      "name": "poradniki"
+    }
+  ],
+  "series": null,
+  "publishingSeries": null,
+  "rating": 5,
+  "ratingsCount": 1,
+  "reviewsCount": 0,
+  "pages": 498,
+  "format": "papier",
+  "publishDate": "2029-01-01",
+  "firstLocalPublishDate": "2029-01-01",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": "8 godz. 18 min.",
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Oficjalny poradnik do gry Cyberpunk 2077, edycja kolekcjonerska z opisem świata i gry."
+    }
+  ]
+}

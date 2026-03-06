@@ -1,0 +1,47 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "4979392",
+  "url": "https://lubimyczytac.pl/ksiazka/4979392/189-dwojek",
+  "title": "189 dwójek",
+  "authors": [
+    {
+      "id": "142193",
+      "name": "Renata Blicharz",
+      "url": "https://lubimyczytac.pl/autor/142193/renata-blicharz"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/4979000/4979392/920625-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "14078",
+    "name": "Ridero"
+  },
+  "categories": [
+    {
+      "id": "48",
+      "slug": "poezja-dramat-satyra/poezja",
+      "name": "poezja"
+    }
+  ],
+  "series": null,
+  "publishingSeries": null,
+  "rating": 7.75,
+  "ratingsCount": 4,
+  "reviewsCount": 2,
+  "pages": 202,
+  "format": "papier",
+  "publishDate": "2030-03-01",
+  "firstLocalPublishDate": "2030-03-01",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": "3 godz. 22 min.",
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "„187 dwójek” to zbiór poetyckich, dwuwersowych miniatur, które w większości powstawały w latach 2017—2018. Na okładce wykorzystano fragment obrazu, zatytułowanego „Łąka o zachodzie słońca” (technika mieszana, papier, 2018),autorstwa Renaty Blicharz."
+    }
+  ]
+}

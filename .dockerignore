@@ -1,0 +1,7 @@
+node_modules
+test
+test-*
+.git
+.claude
+.env*
+*.spec.ts

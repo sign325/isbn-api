@@ -1,0 +1,51 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5210607",
+  "url": "https://lubimyczytac.pl/ksiazka/5210607/the-case-files-of-jeweler-richard-light-novel-vol-9",
+  "title": "The Case Files of Jeweler Richard (Light Novel) Vol. 9",
+  "authors": [
+    {
+      "id": "240366",
+      "name": "Nanako Tsujimura",
+      "url": "https://lubimyczytac.pl/autor/240366/nanako-tsujimura"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/5210000/5210607/1308422-352x500.jpg",
+  "isbn": "9798891602854",
+  "publisher": {
+    "id": "19610",
+    "name": "Seven Seas Entertainment"
+  },
+  "categories": [
+    {
+      "id": "51",
+      "slug": "beletrystyka/literatura-obyczajowa-romans",
+      "name": "literatura obyczajowa, romans"
+    }
+  ],
+  "series": {
+    "id": "40671",
+    "name": "The case files of jeweler Richard",
+    "volume": 9
+  },
+  "publishingSeries": null,
+  "rating": 7,
+  "ratingsCount": 1,
+  "reviewsCount": 0,
+  "pages": 244,
+  "format": "papier",
+  "publishDate": "2027-11-19",
+  "firstLocalPublishDate": null,
+  "firstPublishDate": "2027-11-19",
+  "language": "angielski",
+  "readingTime": "4 godz. 4 min.",
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "A declaration of martial law in Sri Lanka sends Seigi temporarily back to Japan—until a strange message has him flying to Hong Kong to meet with one Vincent Lai, the man who seems as determined to betray Richard as he is to keep helping Seigi. What does Vincent truly want from them? And what will Seigi do once he reunites with Richard"
+    }
+  ]
+}

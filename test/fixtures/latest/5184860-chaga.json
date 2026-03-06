@@ -1,0 +1,54 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5184860",
+  "url": "https://lubimyczytac.pl/ksiazka/5184860/chaga",
+  "title": "Chaga",
+  "authors": [
+    {
+      "id": "30190",
+      "name": "Ian McDonald",
+      "url": "https://lubimyczytac.pl/autor/30190/ian-mcdonald"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "5382",
+    "name": "Mag"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": {
+    "id": "29954",
+    "name": "Chaga (tom 1-3)",
+    "volume": null
+  },
+  "publishingSeries": {
+    "id": "3488",
+    "name": "Artefakty"
+  },
+  "rating": 0,
+  "ratingsCount": 0,
+  "reviewsCount": 0,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-12-31",
+  "firstLocalPublishDate": "2027-12-31",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": null,
+  "originalTitle": "Chaga",
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu. Dodaj opis +"
+    }
+  ]
+}

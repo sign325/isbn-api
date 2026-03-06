@@ -1,0 +1,99 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5184865",
+  "url": "https://lubimyczytac.pl/ksiazka/5184865/umysl-mojego-umyslu",
+  "title": "Umysł Mojego Umysłu",
+  "authors": [
+    {
+      "id": "31968",
+      "name": "Octavia E. Butler",
+      "url": "https://lubimyczytac.pl/autor/31968/octavia-e-butler"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "5382",
+    "name": "Mag"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": {
+    "id": "43028",
+    "name": "Patternmaster",
+    "volume": 2
+  },
+  "publishingSeries": {
+    "id": "3488",
+    "name": "Artefakty"
+  },
+  "rating": 8.5,
+  "ratingsCount": 2,
+  "reviewsCount": 0,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-12-31",
+  "firstLocalPublishDate": "2023-12-31",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": null,
+  "originalTitle": "Mind of My Mind",
+  "translators": [],
+  "otherEditions": [
+    {
+      "id": "4945285",
+      "url": "https://lubimyczytac.pl/ksiazka/5184865/umysl-mojego-umyslu",
+      "title": "Mind of My Mind",
+      "authors": [
+        {
+          "id": "31968",
+          "name": "Octavia E. Butler",
+          "url": "https://lubimyczytac.pl/autor/31968/octavia-e-butler"
+        }
+      ],
+      "description": "Ta książka nie posiada jeszcze opisu. Dodaj opis +",
+      "coverUrl": "https://s.lubimyczytac.pl/upload/books/4945000/4945285/1095739-352x500.jpg",
+      "isbn": "000-00-0000-00-0",
+      "publisher": {
+        "id": "5382",
+        "name": "Mag"
+      },
+      "categories": [
+        {
+          "id": "41",
+          "slug": "beletrystyka/fantasy-science-fiction",
+          "name": "fantasy, science fiction"
+        }
+      ],
+      "series": {
+        "id": "43028",
+        "name": "Patternmaster",
+        "volume": 2
+      },
+      "publishingSeries": null,
+      "rating": 8,
+      "ratingsCount": 1,
+      "reviewsCount": 0,
+      "pages": null,
+      "format": "papier",
+      "publishDate": "2023-12-31",
+      "firstLocalPublishDate": "2023-12-31",
+      "firstPublishDate": null,
+      "language": "polski",
+      "readingTime": null,
+      "originalTitle": "Mind of My Mind",
+      "translators": []
+    }
+  ],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu."
+    }
+  ]
+}

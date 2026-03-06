@@ -1,0 +1,42 @@
+{
+	"source": "lubimyczytac.pl",
+	"id": "5229057",
+	"url": "https://lubimyczytac.pl/ksiazka/5229057/slady",
+	"title": "Ślady",
+	"authors": [
+		{
+			"id": "216354",
+			"name": "Paulina Cedlerska",
+			"url": "https://lubimyczytac.pl/autor/216354/paulina-cedlerska"
+		}
+	],
+	"description": "Na południowych krańcach Podlasia bez śladu przepada czteroosobowa rodzina. Policja podejrzewa, że mogło dojść do zabójstwa suicydalnego. Trop szybko się urywa. Mieszkańcy szepczą o mrocznej przeszłości domu. Trzydzieści lat wcześniej doszło tu do makabrycznych zdarzeń, za którymi według plotek stała demoniczna wiedźma. W starej chacie na skraju lasu do dzisiaj przez grubą warstwę farby przebijają tajemnicze ślady układające się w kształt pazurów. Czy zło, które zdarzyło się w cieniu podlaskiego lasu, rzeczywiście ma swoje źródło w siłach wykraczających poza racjonalne postrzeganie świata? A może to, co najstraszniejsze, jest znacznie bliższe ludziom niż zjawom i kryje się w głębi serca?",
+	"coverUrl": "https://s.lubimyczytac.pl/upload/books/5229000/5229057/1342966-352x500.jpg",
+	"isbn": "9788384410363",
+	"publisher": {
+		"id": "2918",
+		"name": "Filia"
+	},
+	"categories": [
+		{
+			"id": "53",
+			"slug": "beletrystyka/kryminal-sensacja-thriller",
+			"name": "kryminał, sensacja, thriller"
+		}
+	],
+	"series": null,
+	"publishingSeries": null,
+	"rating": 8.25,
+	"ratingsCount": 4,
+	"reviewsCount": 1,
+	"pages": 366,
+	"format": "papier",
+	"publishDate": "2026-03-04",
+	"firstLocalPublishDate": "2026-03-04",
+	"firstPublishDate": null,
+	"language": "polski",
+	"readingTime": "6 godz. 6 min.",
+	"originalTitle": null,
+	"translators": [],
+	"otherEditions": []
+}

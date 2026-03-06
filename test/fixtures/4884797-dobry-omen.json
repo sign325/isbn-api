@@ -1,0 +1,264 @@
+{
+	"source": "lubimyczytac.pl",
+	"id": "4884797",
+	"url": "https://lubimyczytac.pl/ksiazka/4884797/dobry-omen",
+	"title": "Dobry omen",
+	"authors": [
+		{
+			"id": "14260",
+			"name": "Neil Gaiman",
+			"url": "https://lubimyczytac.pl/autor/14260/neil-gaiman"
+		},
+		{
+			"id": "3221",
+			"name": "Terry Pratchett",
+			"url": "https://lubimyczytac.pl/autor/3221/terry-pratchett"
+		}
+	],
+	"description": "Koniec świata jest już blisko!W serialu na podstawie niebiańsko udanej i piekielnie zabawnej powieści Pratchetta i Gaimana wystąpią David Tennant, Michael Sheen, Jon Hamm, Frances McDormand i Benedict Cumerbatch! Premiera 31 maja 2019 roku w Amazon Prime.Koniec świata jest już blisko! Nadciągają jeźdźcy Apokalipsy, a Antychryst ma zesłać na Ziemię Armagedon. Tymczasem aniołowi Azirafalowi (Michael Sheen) i demonowi Crowleyowi (David Tennant),dwóm przyjaciołom, którzy od tysięcy lat żyją wśród ludzi, perspektywa końca świata zupełnie nie odpowiada. Ruszają więc z misją uśmiercenia Antychrysta, żeby zapobiec katastrofie i uratować świat przed zagładą. Problem w tym, że Antychryst ma ledwie jedenaście lat i jest bardzo miłym chłopcem, z którego rodzice mogą być naprawdę dumni...W sześcioodcinkowym serialu głosem Niebios i Piekieł przemówi hollywoodzka śmietanka - w roli Boga wystąpi Frances McDormand, a Benedict Cumerbatch zagra Szatana. Jon Hamm pojawi się w roli Archanioła Gabriela. W pozostałych rolach wystąpią m.in.: Anna Maxwell Martin, Josie Lawrence, Jack Whitehall, Adria Arjona, Michael McKean, Miranda Richardson i Nick Offerman.",
+	"coverUrl": "https://s.lubimyczytac.pl/upload/books/4884000/4884797/731134-352x500.jpg",
+	"isbn": "9788381690867",
+	"publisher": {
+		"id": "7576",
+		"name": "Prószyński i S-ka"
+	},
+	"categories": [
+		{
+			"id": "41",
+			"slug": "beletrystyka/fantasy-science-fiction",
+			"name": "fantasy, science fiction"
+		}
+	],
+	"series": null,
+	"publishingSeries": null,
+	"rating": 7.31,
+	"ratingsCount": 105,
+	"reviewsCount": 119,
+	"pages": 416,
+	"format": "papier",
+	"publishDate": "2019-05-16",
+	"firstLocalPublishDate": "1992-01-01",
+	"firstPublishDate": "1990-05-01",
+	"language": "polski",
+	"readingTime": "6 godz. 56 min.",
+	"originalTitle": "Good Omens",
+	"translators": [
+		{
+			"id": "11691",
+			"name": "Juliusz Wilczur-Garztecki"
+		},
+		{
+			"id": "12026",
+			"name": "Jacek Gałązka"
+		}
+	],
+	"otherEditions": [
+		{
+			"id": "38173",
+			"url": "https://lubimyczytac.pl/ksiazka/4884797/dobry-omen",
+			"title": "Dobry omen",
+			"authors": [
+				{
+					"id": "14260",
+					"name": "Neil Gaiman",
+					"url": "https://lubimyczytac.pl/autor/14260/neil-gaiman"
+				},
+				{
+					"id": "3221",
+					"name": "Terry Pratchett",
+					"url": "https://lubimyczytac.pl/autor/3221/terry-pratchett"
+				}
+			],
+			"description": "Zgodnie z Przenikliwym i Trafnym Proroctwem Agnes Nutter jedynej całkowicie wiarygodnej wróżki świat skończy się w sobotę. Dokładnie mówiąc: w najbliższą sobotę. Jeszcze dokładniej: zaraz po kolacji. A wieczorem zerwą się armie Nieba i Piekła. Zapłoną morza ognia. Księżyc okryje się krwawym całunem. I to jest główny kłopot Crowleya (byłego węża, dziś agenta Piekła) i jego przeciwnika, a zarazem starego przyjaciela Azirafala (autentycznego Anioła). Bo ni chcą być tu na dole (lub na górze, z punktu widzenia Crowleya). Nie mają więc wyboru - muszą zatrzymać Czterech Motocyklistów Apokalipsy. Ponad wszystko (zdaniem Azirafala: poniżej) najważniejsze jest, by zabić Antychrysta. Kłopot w tym, że ma on dopiero 11 lat, kocha swego piekielnego ogara i jest miłym chłopcem, z którego rodzice mogą być dumni.",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/38000/38173/352x500.jpg",
+			"isbn": "9788374692724",
+			"publisher": {
+				"id": "7576",
+				"name": "Prószyński i S-ka"
+			},
+			"categories": [
+				{
+					"id": "41",
+					"slug": "beletrystyka/fantasy-science-fiction",
+					"name": "fantasy, science fiction"
+				}
+			],
+			"series": null,
+			"publishingSeries": null,
+			"rating": 7.35,
+			"ratingsCount": 105,
+			"reviewsCount": 119,
+			"pages": 414,
+			"format": "papier",
+			"publishDate": "1992-01-01",
+			"firstLocalPublishDate": "1992-01-01",
+			"firstPublishDate": null,
+			"language": "polski",
+			"readingTime": "6 godz. 54 min.",
+			"originalTitle": "Good Omens",
+			"translators": [
+				{
+					"id": "11691",
+					"name": "Juliusz Wilczur-Garztecki"
+				},
+				{
+					"id": "12026",
+					"name": "Jacek Gałązka"
+				}
+			]
+		},
+		{
+			"id": "207709",
+			"url": "https://lubimyczytac.pl/ksiazka/4884797/dobry-omen",
+			"title": "Dobry Omen",
+			"authors": [
+				{
+					"id": "14260",
+					"name": "Neil Gaiman",
+					"url": "https://lubimyczytac.pl/autor/14260/neil-gaiman"
+				},
+				{
+					"id": "3221",
+					"name": "Terry Pratchett",
+					"url": "https://lubimyczytac.pl/autor/3221/terry-pratchett"
+				}
+			],
+			"description": "Zgodnie z Przenikliwym i Trafnym Proroctwem Agnes Nutter - jedynej całkowicie wiarygodnej wróżki - świat skończy się w sobotę. Dokładnie mówiąc: w najbliższą sobotę. Jeszcze dokładniej: zaraz po kolacji. A wieczorem zerwą się armie Nieba i Piekła. Zapłoną morza ognia. Księżyc okryje się krwawym całunem. I to jest główny problem Crowleya (byłego węża, dziś agenta Piekła) i jego przeciwnika, a zarazem starego przyjaciela Azirafala (autentycznego anioła). Bo oni chcą być tu na dole (lub na górze, z punktu widzenia Crowleya). Nie mają więc wyboru - muszą zatrzymać Czterech Motocyklistów Apokalipsy. Ponad wszystko (zdaniem Azirafala: poniżej) najważniejsze jest, by zabić Antychrysta. Kłopot w tym, że ma on dopiero 11 lat, kocha swego piekielnego ogara i jest miłym chłopcem, z którego rodzice mogą być dumni.I w najgorszym razie pozostaje im jeszcze niedziela...",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/207000/207709/231364-352x500.jpg",
+			"isbn": "8385100636",
+			"publisher": {
+				"id": "487",
+				"name": "Alumex"
+			},
+			"categories": [
+				{
+					"id": "41",
+					"slug": "beletrystyka/fantasy-science-fiction",
+					"name": "fantasy, science fiction"
+				}
+			],
+			"series": null,
+			"publishingSeries": null,
+			"rating": 7.2,
+			"ratingsCount": 105,
+			"reviewsCount": 119,
+			"pages": 498,
+			"format": "papier",
+			"publishDate": "1992-01-01",
+			"firstLocalPublishDate": "1992-01-01",
+			"firstPublishDate": null,
+			"language": "polski",
+			"readingTime": "8 godz. 18 min.",
+			"originalTitle": "Good Omens (1990)",
+			"translators": [
+				{
+					"id": "10758",
+					"name": "Juliusz Garztecki"
+				},
+				{
+					"id": "12026",
+					"name": "Jacek Gałązka"
+				}
+			]
+		},
+		{
+			"id": "74168",
+			"url": "https://lubimyczytac.pl/ksiazka/4884797/dobry-omen",
+			"title": "Dobry Omen",
+			"authors": [
+				{
+					"id": "3221",
+					"name": "Terry Pratchett",
+					"url": "https://lubimyczytac.pl/autor/3221/terry-pratchett"
+				},
+				{
+					"id": "14260",
+					"name": "Neil Gaiman",
+					"url": "https://lubimyczytac.pl/autor/14260/neil-gaiman"
+				}
+			],
+			"description": "Powieść napisana wspólnie przez Terry'ego Pratchetta i Neila Gaimana. Jest to parodia słynnego cyklu filmów \"Omen\".",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/74000/74168/352x500.jpg",
+			"isbn": "978-83-7180-097-5",
+			"publisher": {
+				"id": "7576",
+				"name": "Prószyński i S-ka"
+			},
+			"categories": [
+				{
+					"id": "41",
+					"slug": "beletrystyka/fantasy-science-fiction",
+					"name": "fantasy, science fiction"
+				}
+			],
+			"series": null,
+			"publishingSeries": null,
+			"rating": 7.17,
+			"ratingsCount": 105,
+			"reviewsCount": 119,
+			"pages": 416,
+			"format": "papier",
+			"publishDate": "1997-01-01",
+			"firstLocalPublishDate": "1997-01-01",
+			"firstPublishDate": null,
+			"language": "polski",
+			"readingTime": "6 godz. 56 min.",
+			"originalTitle": "Good Omens",
+			"translators": [
+				{
+					"id": "11691",
+					"name": "Juliusz Wilczur-Garztecki"
+				},
+				{
+					"id": "12026",
+					"name": "Jacek Gałązka"
+				}
+			]
+		},
+		{
+			"id": "5097530",
+			"url": "https://lubimyczytac.pl/ksiazka/4884797/dobry-omen",
+			"title": "Good Omens",
+			"authors": [
+				{
+					"id": "14260",
+					"name": "Neil Gaiman",
+					"url": "https://lubimyczytac.pl/autor/14260/neil-gaiman"
+				},
+				{
+					"id": "3221",
+					"name": "Terry Pratchett",
+					"url": "https://lubimyczytac.pl/autor/3221/terry-pratchett"
+				}
+			],
+			"description": "What if, for once, the predictions are right, and the Apocalypse really is due to arrive next Saturday, just after tea?It's a predicament that Aziraphale, a somewhat fussy angel, and Crowley, a fast-living demon, now find themselves in. They've been living amongst Earth's mortals since The Beginning and, truth be told, have grown rather fond of the lifestyle and, in all honesty, are not actually looking forward to the coming Apocalypse.And then there's the small matter that someone appears to have misplaced the Antichrist . . .What readers are saying about Good Omens:***** 'A superb recipe for disaster. I didn't stop grinning from beginning to end.'***** 'Both Gaiman and Pratchett are great authors and they complement each other brilliantly'***** 'Superbly enjoyable read. Seamlessly co-written.'",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/5097000/5097530/1118060-352x500.jpg",
+			"isbn": "9780552171892",
+			"publisher": {
+				"id": "9260",
+				"name": "Transworld Publishers Ltd"
+			},
+			"categories": [
+				{
+					"id": "41",
+					"slug": "beletrystyka/fantasy-science-fiction",
+					"name": "fantasy, science fiction"
+				}
+			],
+			"series": null,
+			"publishingSeries": null,
+			"rating": 8.67,
+			"ratingsCount": 105,
+			"reviewsCount": 119,
+			"pages": 416,
+			"format": "papier",
+			"publishDate": "2014-12-11",
+			"firstLocalPublishDate": null,
+			"firstPublishDate": "2014-12-11",
+			"language": "angielski",
+			"readingTime": "6 godz. 56 min.",
+			"originalTitle": "Good Omens",
+			"translators": []
+		}
+	]
+}

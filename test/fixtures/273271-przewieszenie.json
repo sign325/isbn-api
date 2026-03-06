@@ -1,0 +1,188 @@
+{
+	"source": "lubimyczytac.pl",
+	"id": "273271",
+	"url": "https://lubimyczytac.pl/ksiazka/273271/przewieszenie",
+	"title": "Przewieszenie",
+	"authors": [
+		{
+			"id": "82094",
+			"name": "Remigiusz Mróz",
+			"url": "https://lubimyczytac.pl/autor/82094/remigiusz-mroz"
+		}
+	],
+	"description": "Podhalem wstrząsa seria wypadków w górach. Początkowo czarna passa wydaje się jedynie ciągiem pechowych zdarzeń, jednak śledczy ostatecznie odkrywają związek między ofiarami. Każe on sądzić, że ktoś morduje turystów na szlakach.Dochodzenie prowadzi komisarz Forst. Szybko zdaje sobie sprawę z tego, że zabójstwa powiązane są ze sprawą, nad którą pracował z Olgą Szrebską. Zaczyna tropić mordercę, zbierając okruchy informacji, które ten zdaje się z premedytacją zostawiać.Kiedy zbliża się do rozwiązania sprawy, doganiają go upiory z przeszłości. Wiktor Forst będzie musiał stawić czoła nie tylko człowiekowi, którego ściga, ale także ludziom gotowym zrobić wszystko, by go pogrążyć.",
+	"coverUrl": "https://s.lubimyczytac.pl/upload/books/273000/273271/449609-352x500.jpg",
+	"isbn": "9788380750722",
+	"publisher": {
+		"id": "2918",
+		"name": "Filia"
+	},
+	"categories": [
+		{
+			"id": "53",
+			"slug": "beletrystyka/kryminal-sensacja-thriller",
+			"name": "kryminał, sensacja, thriller"
+		}
+	],
+	"series": {
+		"id": "17775",
+		"name": "Komisarz Forst",
+		"volume": 2
+	},
+	"publishingSeries": {
+		"id": "9663",
+		"name": "Mroczna strona"
+	},
+	"rating": 7.51,
+	"ratingsCount": 12296,
+	"reviewsCount": 1004,
+	"pages": 462,
+	"format": "papier",
+	"publishDate": "2016-01-13",
+	"firstLocalPublishDate": "2016-01-13",
+	"firstPublishDate": null,
+	"language": "polski",
+	"readingTime": "7 godz. 42 min.",
+	"originalTitle": null,
+	"translators": [],
+	"otherEditions": [
+		{
+			"id": "5207415",
+			"url": "https://lubimyczytac.pl/ksiazka/273271/przewieszenie",
+			"title": "Przewieszenie",
+			"authors": [
+				{
+					"id": "82094",
+					"name": "Remigiusz Mróz",
+					"url": "https://lubimyczytac.pl/autor/82094/remigiusz-mroz"
+				}
+			],
+			"description": "Podhalem wstrząsa seria wypadków w górach. Początkowo czarna passa wydaje się jedynie ciągiem pechowych zdarzeń, jednak śledczy ostatecznie odkrywają związek między ofiarami. Każe on sądzić, że ktoś morduje turystów na szlakach.Dochodzenie prowadzi komisarz Forst. Szybko zdaje sobie sprawę z tego, że zabójstwa powiązane są ze sprawą, nad którą pracował z Olgą Szrebską. Zaczyna tropić mordercę, zbierając okruchy informacji, które ten zdaje się z premedytacją zostawiać.Kiedy zbliża się do rozwiązania sprawy, doganiają go upiory z przeszłości. Wiktor Forst będzie musiał stawić czoła nie tylko człowiekowi, którego ściga, ale także ludziom gotowym zrobić wszystko, by go pogrążyć.",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/5207000/5207415/1302905-352x500.jpg",
+			"isbn": "9788379458585",
+			"publisher": {
+				"id": "2479",
+				"name": "Edipresse"
+			},
+			"categories": [
+				{
+					"id": "53",
+					"slug": "beletrystyka/kryminal-sensacja-thriller",
+					"name": "kryminał, sensacja, thriller"
+				}
+			],
+			"series": {
+				"id": "17775",
+				"name": "Komisarz Forst",
+				"volume": 2
+			},
+			"publishingSeries": {
+				"id": "9663",
+				"name": "Mroczna strona"
+			},
+			"rating": 0,
+			"ratingsCount": 0,
+			"reviewsCount": 0,
+			"pages": 490,
+			"format": "papier",
+			"publishDate": "2017-01-01",
+			"firstLocalPublishDate": "2017-01-01",
+			"firstPublishDate": null,
+			"language": "polski",
+			"readingTime": "8 godz. 10 min.",
+			"originalTitle": null,
+			"translators": []
+		},
+		{
+			"id": "5090184",
+			"url": "https://lubimyczytac.pl/ksiazka/273271/przewieszenie",
+			"title": "Przewieszenie",
+			"authors": [
+				{
+					"id": "82094",
+					"name": "Remigiusz Mróz",
+					"url": "https://lubimyczytac.pl/autor/82094/remigiusz-mroz"
+				}
+			],
+			"description": "Podhalem wstrząsa seria wypadków w górach.Początkowo czarna passa wydaje się jedynie ciągiem pechowych zdarzeń, jednak śledczy ostatecznie odkrywają związek między ofiarami. Każe on sądzić, że ktoś morduje turystów na szlakach.Dochodzenie prowadzi komisarz Forst. Szybko zdaje sobie sprawę z tego, że zabójstwa powiązane są ze sprawą, nad którą pracował z Olgą Szrebską. Zaczyna tropić mordercę, zbierając okruchy informacji, które ten zdaje się z premedytacją zostawiać.Kiedy zbliża się do rozwiązania sprawy, doganiają go upiory z przeszłości. Wiktor Forst będzie musiał stawić czoła nie tylko człowiekowi, którego ściga, ale także ludziom gotowym zrobić wszystko, by go pogrążyć.",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/5090000/5090184/1128376-352x500.jpg",
+			"isbn": "9788382809350",
+			"publisher": {
+				"id": "2918",
+				"name": "Filia"
+			},
+			"categories": [
+				{
+					"id": "53",
+					"slug": "beletrystyka/kryminal-sensacja-thriller",
+					"name": "kryminał, sensacja, thriller"
+				}
+			],
+			"series": {
+				"id": "17775",
+				"name": "Komisarz Forst",
+				"volume": 2
+			},
+			"publishingSeries": null,
+			"rating": 7.49,
+			"ratingsCount": 1242,
+			"reviewsCount": 46,
+			"pages": 464,
+			"format": "papier",
+			"publishDate": "2023-10-25",
+			"firstLocalPublishDate": "2023-10-25",
+			"firstPublishDate": null,
+			"language": "polski",
+			"readingTime": "7 godz. 44 min.",
+			"originalTitle": null,
+			"translators": []
+		},
+		{
+			"id": "4941194",
+			"url": "https://lubimyczytac.pl/ksiazka/273271/przewieszenie",
+			"title": "Przewieszenie",
+			"authors": [
+				{
+					"id": "82094",
+					"name": "Remigiusz Mróz",
+					"url": "https://lubimyczytac.pl/autor/82094/remigiusz-mroz"
+				}
+			],
+			"description": "Ta książka nie posiada jeszcze opisu. Dodaj opis +",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/4941000/4941194/845857-352x500.jpg",
+			"isbn": "9788381773836",
+			"publisher": {
+				"id": "2479",
+				"name": "Edipresse"
+			},
+			"categories": [
+				{
+					"id": "53",
+					"slug": "beletrystyka/kryminal-sensacja-thriller",
+					"name": "kryminał, sensacja, thriller"
+				}
+			],
+			"series": {
+				"id": "17775",
+				"name": "Komisarz Forst",
+				"volume": 2
+			},
+			"publishingSeries": {
+				"id": "25045",
+				"name": "Remigiusz Mróz Mistrz Polskiego Kryminału"
+			},
+			"rating": 7.36,
+			"ratingsCount": 25,
+			"reviewsCount": 1,
+			"pages": 426,
+			"format": "papier",
+			"publishDate": "2020-06-25",
+			"firstLocalPublishDate": "2020-06-25",
+			"firstPublishDate": null,
+			"language": "polski",
+			"readingTime": "7 godz. 6 min.",
+			"originalTitle": null,
+			"translators": []
+		}
+	]
+}

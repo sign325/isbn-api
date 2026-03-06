@@ -1,0 +1,96 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5223130",
+  "url": "https://lubimyczytac.pl/ksiazka/5223130/a-time-of-dread",
+  "title": "A Time of Dread",
+  "authors": [
+    {
+      "id": "99304",
+      "name": "John Gwynne",
+      "url": "https://lubimyczytac.pl/autor/99304/john-gwynne"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "2830",
+    "name": "Fabryka Słów"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": {
+    "id": "20806",
+    "name": "Of Blood and Bone",
+    "volume": 1
+  },
+  "publishingSeries": null,
+  "rating": 7.44,
+  "ratingsCount": 9,
+  "reviewsCount": 5,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-06-01",
+  "firstLocalPublishDate": "2027-06-01",
+  "firstPublishDate": "2018-09-06",
+  "language": "polski",
+  "readingTime": null,
+  "originalTitle": "A Time of Dread",
+  "translators": [],
+  "otherEditions": [
+    {
+      "id": "4874559",
+      "url": "https://lubimyczytac.pl/ksiazka/5223130/a-time-of-dread",
+      "title": "A Time of Dread",
+      "authors": [
+        {
+          "id": "99304",
+          "name": "John Gwynne",
+          "url": "https://lubimyczytac.pl/autor/99304/john-gwynne"
+        }
+      ],
+      "description": "Set in the same world as the Faithful and the Fallen quartet, the first novel in John Gwynne's Of Blood and Bone series, A Time of Dread, takes place one hundred years after the end of Wrath.The Ben-Elim, a race of warrior angels, once vanquished a mighty demon horde. Now they rule the Banished lands. But their dominion is brutally enforced and their ancient enemy may not be as crushed as they thought.In the snowbound north, Drem, a trapper, finds mutilated corpses in the forests – a sign of demonic black magic. In the south, Riv, a young, tempestuous soldier, discovers a deadly rift within the Ben-Elim themselves.Two individuals with two world-changing secrets. But where will they lead? And what role will Drem and Riv play in the Banished Land's fate? Difficult choices need to be made. Because in the shadows, demons are gathering, waiting for their time to rise. . .",
+      "coverUrl": "https://s.lubimyczytac.pl/upload/books/4874000/4874559/981071-352x500.jpg",
+      "isbn": "9781509812936",
+      "publisher": {
+        "id": "6857",
+        "name": "Pan Macmillan"
+      },
+      "categories": [
+        {
+          "id": "41",
+          "slug": "beletrystyka/fantasy-science-fiction",
+          "name": "fantasy, science fiction"
+        }
+      ],
+      "series": {
+        "id": "20806",
+        "name": "Of Blood and Bone",
+        "volume": 1
+      },
+      "publishingSeries": null,
+      "rating": 7.44,
+      "ratingsCount": 9,
+      "reviewsCount": 5,
+      "pages": 496,
+      "format": "papier",
+      "publishDate": "2018-09-06",
+      "firstLocalPublishDate": null,
+      "firstPublishDate": "2018-09-06",
+      "language": "angielski",
+      "readingTime": "8 godz. 16 min.",
+      "originalTitle": null,
+      "translators": []
+    }
+  ],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu. Dodaj opis +"
+    }
+  ]
+}

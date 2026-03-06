@@ -1,0 +1,88 @@
+{
+	"source": "lubimyczytac.pl",
+	"id": "5224317",
+	"url": "https://lubimyczytac.pl/ksiazka/5224317/na-imie-mam-barbra",
+	"title": "Na imię mam Barbra",
+	"authors": [
+		{
+			"id": "257408",
+			"name": "Barbra Streisand",
+			"url": "https://lubimyczytac.pl/autor/257408/barbra-streisand"
+		}
+	],
+	"description": "Wyczekiwane wspomnienia jednej z największych gwiazd muzyki i filmu XX wiekuBarbra Streisand – absolutna ikona, nowojorska diwa i jedna z nielicznych artystek, które zdobyły cztery najważniejsze nagrody branży rozrywkowej: Emmy, Grammy, Oscara i Tony – własnymi słowami opowiada o drodze, która doprowadziła ją na największe światowe sceny. Mówi o dzieciństwie naznaczonym stratą ojca i emocjonalnym chłodem matki, o dojmującym poczuciu bycia niewystarczająco dobrą, o wślizgnięciu się do branży tylnymi drzwiami – mimo braku pieniędzy, koneksji, odpowiedniego wykształcenia i „właściwego” wyglądu – oraz o mozolnym zdobywaniu miejsca w świecie, który długo nie chciał jej przyjąć.Od występów w manhattańskich klubach i na scenach off-off-broadwayowskich, przez pierwsze single i przełomową rolę w Zabawnej dziewczynie, aż po kontrakty z czołowymi wytwórniami muzycznymi i hollywoodzkie superprodukcje – Streisand ujawnia kulisy kariery, w której z czasem coraz częściej dyktowała własne warunki. Ważną rolę w jej historii odgrywają ludzie, którzy ją zrozumieli i wyciągnęli pomocną dłoń: Judy Garland, Marlon Brando, Robert Redford, Tennessee Williams czy Sydney Pollack.Bezkompromisowe i inspirujące życie Streisand to świadectwo tego, jak wiele znaczą odwaga, intuicja i wierność sobie. A jej książka – dowcipna i czarująca jak sama Barbra – przypomina, że by zbudować coś wielkiego, potrzeba nie cudów, lecz konsekwencji.",
+	"coverUrl": "https://s.lubimyczytac.pl/upload/books/5224000/5224317/1337756-352x500.jpg",
+	"isbn": "9788368549805",
+	"publisher": {
+		"id": "5484",
+		"name": "Marginesy"
+	},
+	"categories": [
+		{
+			"id": "40",
+			"slug": "literatura-faktu/biografia-autobiografia-pamietnik",
+			"name": "biografia, autobiografia, pamiętnik"
+		}
+	],
+	"series": null,
+	"publishingSeries": null,
+	"rating": 7.48,
+	"ratingsCount": 23,
+	"reviewsCount": 5,
+	"pages": 952,
+	"format": "papier",
+	"publishDate": "2026-02-25",
+	"firstLocalPublishDate": "2026-02-25",
+	"firstPublishDate": "2023-11-07",
+	"language": "polski",
+	"readingTime": "15 godz. 52 min.",
+	"originalTitle": "My Name Is Barbra",
+	"translators": [
+		{
+			"id": "14308",
+			"name": "Katarzyna Bażyńska-Chojnacka"
+		}
+	],
+	"otherEditions": [
+		{
+			"id": "5092602",
+			"url": "https://lubimyczytac.pl/ksiazka/5224317/na-imie-mam-barbra",
+			"title": "My Name Is Barbra",
+			"authors": [
+				{
+					"id": "257408",
+					"name": "Barbra Streisand",
+					"url": "https://lubimyczytac.pl/autor/257408/barbra-streisand"
+				}
+			],
+			"description": "The long-awaited memoir by the superstar of stage, screen, recordings, and televisionBarbra Streisand is by any account a living legend, a woman who in a career spanning six decades has excelled in every area of entertainment. She is among the handful of EGOT winners (Emmy, Grammy, Oscar, and Tony) and has one of the greatest and most recognizable voices in the history of popular music. She has been nominated for a Grammy 46 times, and with Yentl she became the first woman to write, produce, direct, and star in a major motion picture. In My Name Is Barbra, she tells her own story about her life and extraordinary career, from growing up in Brooklyn to her first star-making appearances in New York nightclubs to her breakout performance in Funny Girl on stage and winning the Oscar for that performance on film. Then came a long string of successes in every medium in the years that followed. The book is, like Barbra herself, frank, funny, opinionated, and charming. She recounts her early struggles to become an actress, eventually turning to singing to earn a living; the recording of some of her acclaimed albums; the years of effort involved in making Yentl; her direction of The Prince of Tides; her friendships with figures ranging from Marlon Brando to Madeleine Albright; her political advocacy; and the fulfillment she’s found in her marriage to James Brolin.No entertainer’s memoir has been more anticipated than Barbra Streisand’s, and this engrossing and delightful book will be eagerly welcomed by her millions of fans.",
+			"coverUrl": "https://s.lubimyczytac.pl/upload/books/5092000/5092602/1110219-352x500.jpg",
+			"isbn": "9780525429524",
+			"publisher": {
+				"id": "9608",
+				"name": "Viking"
+			},
+			"categories": [
+				{
+					"id": "40",
+					"slug": "literatura-faktu/biografia-autobiografia-pamietnik",
+					"name": "biografia, autobiografia, pamiętnik"
+				}
+			],
+			"series": null,
+			"publishingSeries": null,
+			"rating": 8,
+			"ratingsCount": 3,
+			"reviewsCount": 1,
+			"pages": 992,
+			"format": "papier",
+			"publishDate": "2023-11-07",
+			"firstLocalPublishDate": null,
+			"firstPublishDate": "2023-11-07",
+			"language": "angielski",
+			"readingTime": "16 godz. 32 min.",
+			"originalTitle": null,
+			"translators": []
+		}
+	]
+}

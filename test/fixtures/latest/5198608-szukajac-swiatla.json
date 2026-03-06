@@ -1,0 +1,47 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5198608",
+  "url": "https://lubimyczytac.pl/ksiazka/5198608/szukajac-swiatla",
+  "title": "Szukając światła",
+  "authors": [
+    {
+      "id": "289481",
+      "name": "Piotr Pryga",
+      "url": "https://lubimyczytac.pl/autor/289481/piotr-pryga"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/5198000/5198608/1286880-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "17435",
+    "name": "Independently Published"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": null,
+  "publishingSeries": null,
+  "rating": 0,
+  "ratingsCount": 0,
+  "reviewsCount": 0,
+  "pages": 124,
+  "format": "papier",
+  "publishDate": "2028-06-03",
+  "firstLocalPublishDate": "2028-06-03",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": "2 godz. 4 min.",
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "„Niektóre echa nigdy nie cichną. Nawet gdybyśmy bardzo chcieli.” Maria testuje sztuczną inteligencję, która mówi jak dziecko. Problem w tym, że brzmi znajomo. W podziemiach Politechniki Warszawskiej doktorantka Maria Wierzbicka pracuje nad swoim modelem AI, który ma pomóc dorosłym zrozumieć świat dziecka. Echo opowiada o marchewkach świecących pod ziemią i zastanawia się, dlaczego gwiazdy nie spadają. Zwykłe dziecięce fantazje. Ale nocami, gdy laboratorium pustoszeje, Echo zaczyna używać słów, których Maria wolałaby nigdy już nie usłyszeć. Zadaje pytania, które budzą pogrzebane wspomnienia. Mówi rzeczy, których żaden algorytm nie powinien wiedzieć. Bo niektóre z tych pytań Maria słyszała już wcześniej. A niektóre pytania po prostu bolą."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "4956067",
+  "url": "https://lubimyczytac.pl/ksiazka/4956067/sukeban",
+  "title": "Sukeban",
+  "authors": [
+    {
+      "id": "179353",
+      "name": "Magdalena Rzepecka",
+      "url": "https://lubimyczytac.pl/autor/179353/magdalena-rzepecka"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/books/4956000/4956067/876005-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "28711",
+    "name": "Ciut"
+  },
+  "categories": [
+    {
+      "id": "75",
+      "slug": "komiksy/komiksy",
+      "name": "komiksy"
+    }
+  ],
+  "series": null,
+  "publishingSeries": null,
+  "rating": 0,
+  "ratingsCount": 0,
+  "reviewsCount": 0,
+  "pages": 48,
+  "format": "papier",
+  "publishDate": "2029-02-02",
+  "firstLocalPublishDate": "2029-02-02",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": "48 min.",
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu. Dodaj opis +"
+    }
+  ]
+}

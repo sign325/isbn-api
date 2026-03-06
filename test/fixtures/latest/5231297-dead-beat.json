@@ -1,0 +1,51 @@
+{
+  "source": "lubimyczytac.pl",
+  "id": "5231297",
+  "url": "https://lubimyczytac.pl/ksiazka/5231297/dead-beat",
+  "title": "Dead Beat",
+  "authors": [
+    {
+      "id": "69633",
+      "name": "Leigh Bardugo",
+      "url": "https://lubimyczytac.pl/autor/69633/leigh-bardugo"
+    }
+  ],
+  "coverUrl": "https://s.lubimyczytac.pl/upload/default-book-352x500.jpg",
+  "isbn": "000-00-0000-00-0",
+  "publisher": {
+    "id": "5382",
+    "name": "Mag"
+  },
+  "categories": [
+    {
+      "id": "41",
+      "slug": "beletrystyka/fantasy-science-fiction",
+      "name": "fantasy, science fiction"
+    }
+  ],
+  "series": {
+    "id": "18844",
+    "name": "Alex Stern",
+    "volume": 3
+  },
+  "publishingSeries": null,
+  "rating": 0,
+  "ratingsCount": 0,
+  "reviewsCount": 0,
+  "pages": null,
+  "format": "papier",
+  "publishDate": "2027-12-31",
+  "firstLocalPublishDate": "2027-12-31",
+  "firstPublishDate": null,
+  "language": "polski",
+  "readingTime": null,
+  "originalTitle": null,
+  "translators": [],
+  "otherEditions": [],
+  "descriptions": [
+    {
+      "source": "lubimyczytac.pl",
+      "text": "Ta książka nie posiada jeszcze opisu. Dodaj opis +"
+    }
+  ]
+}
